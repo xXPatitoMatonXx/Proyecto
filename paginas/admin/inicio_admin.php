@@ -344,7 +344,7 @@ include '../../includes/header.php';
                     <div class="p-4" style="background: linear-gradient(135deg, var(--success-color), #047857); color: white; border-radius: 12px;">
                         <i class="bi bi-clock-fill" style="font-size: 2rem; margin-bottom: 0.5rem; opacity: 0.8;"></i>
                         <h3 style="margin: 0;"><?php echo number_format($datos_bombeos['total_horas'] ?? 0, 1); ?></h3>
-                        <p style="margin: 0; opacity: 0.9;">Horas Bombeadas</p>
+                        <p style="margin: 0; opacity: 0.9;">Horas Bombeadas2</p>
                     </div>
                     <div class="p-4" style="background: linear-gradient(135deg, var(--info-color), #0369a1); color: white; border-radius: 12px;">
                         <i class="bi bi-droplet-fill" style="font-size: 2rem; margin-bottom: 0.5rem; opacity: 0.8;"></i>
